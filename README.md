@@ -1,7 +1,7 @@
 # SwathikaGopinath
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Swathika+Gopinath;Software+Engineering+Intern;AI+%26+Data+Science+Student;Building+Python,+Flask+%26+ERPNext+Projects+🚀;Learning+One+Project+at+a+Time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Hi,+I'm+Swathika+Gopinath;Software+Engineering+Intern;AI+%26+Data+Science+Student;Building+Python,+Flask+%26+ERPNext+Projects;Learning+One+Project+at+a+Time" alt="Typing SVG" />
 
 <br/>
 
